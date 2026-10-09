@@ -6,7 +6,7 @@ Profissional de Business Intelligence com atuação em análise de dados, indica
 
 -------------------------------------------------------------------------------------------------
 
-### Competências
+### Sobre mim
 
 - Atuação com Business Intelligence, análise comercial e inteligência de mercado
 - Experiência com construção de KPIs, relatórios e dashboards
